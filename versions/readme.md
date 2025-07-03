@@ -1,8 +1,6 @@
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-                  UPDATE LOG
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+#UPDATE LOG
 
-Version 1.0 - 4/2/2025 -=-=-=-=-=-=-=-=-=-=-=-=
+##Version 1.0 - 4/2/2025
 Released with the following
 - Adds a berry counter, death counter, and gemskip label next the timer UI
 - Berries and Keys now follow you. Use keys to open chests, and get onto solid ground to collect the berry.
@@ -12,5 +10,7 @@ Released with the following
 - Some minor token optimizations to base Evercore
 - Tweeked graphics and music
 - Seperates fake walls, and their berry drops.
+- Added watchtowers
 - Adds a pause menu
 - Rem is fixed when sliding on any walls (Only important for spike jumps)
+- There probably something else I missed lol.
